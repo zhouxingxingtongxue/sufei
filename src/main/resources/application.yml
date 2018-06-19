@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: manage-service
+  datasource:
+    url: "jdbc:mysql://106.14.194.171:59027/liao_test?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&autoReconnect=true&rewriteBatchedStatements=TRUE&useSSL=true"
+    username: root
+    password: XZhenzhuangtodb
+    sql-script-encoding: UTF-8
